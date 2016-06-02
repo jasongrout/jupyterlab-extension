@@ -1,0 +1,2 @@
+recursive-include jupyterlab_extension/build *
+include jupyterlab_extension/lab.html
